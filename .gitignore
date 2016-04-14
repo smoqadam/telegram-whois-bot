@@ -1,0 +1,4 @@
+.idea
+vendor
+.openshift
+composer.lock

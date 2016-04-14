@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smoqadam/php-telegram-bot":"@dev",
+        "smoqadam/php-whois": "@dev"
+    }
+}
